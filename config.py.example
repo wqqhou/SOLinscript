@@ -1,7 +1,11 @@
+# Provide your RPC URL with API key
+#e.g., https://solemn-cosmological-tree.solana-mainnet.quiknode.pro/123456abcdefg/
 RPC = ''
 
+# The private key of your wallet (Mnemonic won't work)
 private_key = ''
 
+# Replace with the desired inscription text
 inscription = '{"p":"src-20","op":"mint","tick":"sols","amt":"1000"}'
 
 # Number of transactions to send
